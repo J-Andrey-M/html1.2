@@ -11,7 +11,7 @@
 /* https://caniuse.com/css-media-range-syntax */
 @media screen and (width >= 600px) {
   :root {
-    --bg-color: orangered;
+    --bg-color: rgb(255, 196, 0);
   }
 }
 
